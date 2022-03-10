@@ -4,25 +4,28 @@
 
 The Course is divided in 6 modules, and intended for beginers as well as for the people who have the programming knowledge in another language you can learn everything from the link provided at the top. This Git Repository is going to be a playground for notes and code samples.
 
-Table of contents:
-    - [ Module 1 : Basic and Control Structures ](### Module 1  Basic and Control Structures )
-    - Module 2 : Arrays and Strings
-    - Module 3 : Classes and BigInteger
-    - Module 4 : Stacks, Queues, and Lists
-    - Module 5 : Sets and Maps
-    - Module 6 : Misc 
+
+- [Java GeeksforGeeks Notes.](#java-geeksforgeeks-notes)
+    - [Module 1 ( Basic and Control Structures )](#module-1--basic-and-control-structures-)
+    - [Module 2 ( Arrays and Strings )](#module-2--arrays-and-strings-)
+    - [Module 3 ( Classes and BigInteger )](#module-3--classes-and-biginteger-)
+    - [Module 4 ( Stacks, Queues, and Lists)](#module-4--stacks-queues-and-lists)
+    - [Module 5 ( Sets and Maps)](#module-5--sets-and-maps)
+    - [Module 6 ( Misc )](#module-6--misc-)
 
 
 ### Module 1 ( Basic and Control Structures )
-fkfgjkldgjsko'
+> **Quick Notes :**
+
+
 ### Module 2 ( Arrays and Strings )
 
-ksjdklgj
+> **Quick Notes:**
 ### Module 3 ( Classes and BigInteger )
-skhjfjkhsa;
+> **Quick Notes:**
 ### Module 4 ( Stacks, Queues, and Lists)
-sjfgnkljsahl;
+> **Quick Notes:**
 ### Module 5 ( Sets and Maps)
-gskljklg;js;'akj
+> **Quick Notes:**
 ### Module 6 ( Misc )
-kjdgk;ja;'gpkdj'
+> **Quick Notes:**
