@@ -46,6 +46,11 @@ class empty{
 ```
 This Java file when complied will create 3 .class files and .class file which has main method will be executable.
 
+**Types of Variables :**
+- Local Variable
+- Instance Variable
+- Static Variable
+
 ### Module 2 ( Arrays and Strings )
 > **Quick Notes:**
 
