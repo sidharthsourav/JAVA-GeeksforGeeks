@@ -47,9 +47,9 @@ class empty{
 This Java file when complied will create 3 .class files and .class file which has main method will be executable.
 
 **Types of Variables :**
-- Local Variable
-- Instance Variable
-- Static Variable
+- Local Variable : variables in a block of code 
+- Instance Variable : class variables initiated with every object
+- Static Variable : variables used with keyword static only initilsed once no matter how many objects are there it will be common for all.
 
 ### Module 2 ( Arrays and Strings )
 > **Quick Notes:**
